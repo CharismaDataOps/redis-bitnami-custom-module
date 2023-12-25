@@ -1,11 +1,11 @@
-# Cloned from bitnami/redis version - 18.6.1
+e# Cloned from bitnami/redis version - 18.6.1
 [redis-bitnami-customized-module](https://github.com/Saeedb7203/redis-bitnami-customized-module.git)
 
 Some files were modified to make it work
 
-https://github.com/CharismaDataOps/redis-bitnami-customized-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/values.yaml#L94-L97
+https://github.com/CharismaDataOps/redis-bitnami-customized-module/blob/88120ea889592fc5e5e4ba3a31aa55dcbaa5997d/redis-bitnami-helm-chart-custom-module/values.yaml#L94-L97
 
-https://github.com/CharismaDataOps/redis-bitnami-customized-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/values.yaml#L1071-L1074
+https://github.com/CharismaDataOps/redis-bitnami-customized-module/blob/88120ea889592fc5e5e4ba3a31aa55dcbaa5997d/redis-bitnami-helm-chart-custom-module/values.yaml#L1071-L1074
 
 https://github.com/CharismaDataOps/redis-bitnami-customized-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L244-L248
 
