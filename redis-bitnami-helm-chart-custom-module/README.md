@@ -3,15 +3,15 @@
 
 Some files were modified to make it work
 
-https://github.com/Saeedb7203/redis-bitnami-custom-module/blob/f5adf3a01d992e1ac6038bb1017d7eaeb093ef7c/redis-bitnami-helm-chart-custom-module/values.yaml#L94-L97
+https://github.com/CharismaDataOps/redis-bitnami-custom-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/values.yaml#L94-L97
 
-https://github.com/Saeedb7203/redis-bitnami-custom-module/blob/f5adf3a01d992e1ac6038bb1017d7eaeb093ef7c/redis-bitnami-helm-chart-custom-module/values.yaml#L1071-L1074
+https://github.com/CharismaDataOps/redis-bitnami-custom-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/values.yaml#L1071-L1074
 
-https://github.com/Saeedb7203/redis-bitnami-custom-module/blob/4f055b8f4b6acdfa98f290c90bb76031525f945d/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L244-L248
+https://github.com/CharismaDataOps/redis-bitnami-custom-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L244-L248
 
-https://github.com/Saeedb7203/redis-bitnami-custom-module/blob/4f055b8f4b6acdfa98f290c90bb76031525f945d/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L449-L453
+https://github.com/CharismaDataOps/redis-bitnami-custom-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L449-L453
 
-https://github.com/Saeedb7203/redis-bitnami-custom-module/blob/4f055b8f4b6acdfa98f290c90bb76031525f945d/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L764=L768
+https://github.com/CharismaDataOps/redis-bitnami-custom-module/blob/3b89c7c8ce7b9347744db4d8286ec7cb47a27c62/redis-bitnami-helm-chart-custom-module/templates/scripts-configmap.yaml#L764-L768
 
 To run
 ```bash
